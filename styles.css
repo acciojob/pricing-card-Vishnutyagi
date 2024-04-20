@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+
+.main-container{
+	width: 100%;
+	padding: 10%;
+	box-shadow: 10px 10px 10px 10px black;
+	background-color: floralwhite;
+}
+
+.image{
+	 width: 80%;
+}
+
+.btn{
+	padding: 10px;
+	background-color: red;
+    color: white;
+	border-radius: 10px;
+	
+}
